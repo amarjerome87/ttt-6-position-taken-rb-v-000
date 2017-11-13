@@ -1,3 +1,3 @@
-def position_taken? (index, positon)
+def position_taken? (board, index)
 
-end 
+end
